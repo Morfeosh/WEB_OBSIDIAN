@@ -1,4 +1,4 @@
-Obsidian Web
+# Base de Datos Inteligente - Obsidian Web
 
 Una aplicación web moderna para leer y navegar por tus notas de Obsidian exportadas como HTML, con una interfaz similar a Obsidian pero optimizada para la web.
 
@@ -192,4 +192,3 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 ---
 
 **Nota**: Esta aplicación es un complemento para Obsidian, no un reemplazo. Tus notas originales en Obsidian permanecen intactas.
-

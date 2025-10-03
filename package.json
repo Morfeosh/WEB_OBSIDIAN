@@ -1,0 +1,16 @@
+{
+  "name": "web-obsidian",
+  "version": "1.0.0",
+  "description": "Web interface for reading Obsidian HTML exports",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["obsidian", "web", "html", "notes"],
+  "author": "",
+  "license": "MIT"
+}

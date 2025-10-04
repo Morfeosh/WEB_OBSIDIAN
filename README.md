@@ -171,25 +171,10 @@ Edita la sección `<style>` en `index.html` para personalizar colores, fuentes, 
 - **Lazy loading**: Archivos se cargan solo cuando se abren
 - **Monitorización eficiente**: Verificación cada 30 segundos sin impacto
 
-## 🤝 Contribución
 
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
-
-## 🙏 Agradecimientos
-
-- **Obsidian**: Por la inspiración y el formato de exportación
-- **La comunidad**: Por el feedback y contribuciones
-- **Tecnologías web**: HTML5, CSS3, JavaScript moderno
 
 ---
 
 **Nota**: Esta aplicación es un complemento para Obsidian, no un reemplazo. Tus notas originales en Obsidian permanecen intactas.
+
 
